@@ -1,67 +1,65 @@
-<h1 align="center">Hey, I'm Seif 👋</h1>
-
 <p align="center">
-  iOS Developer · Full-Stack Builder · Swift & Python Enthusiast
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:147EFB,100:F05138&height=120&section=header&text=Seif%20Kobrosly&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seifscape&style=flat-square&color=blue" alt="Profile views" />
+  <strong>iOS Engineer</strong> &nbsp;·&nbsp; Swift · SwiftUI · UIKit
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=seifscape&style=flat-square&color=147EFB&label=Profile+Views" />
 </p>
 
 ---
 
-### About Me
+### About
 
-I build across the stack — native iOS apps with Swift and SwiftUI, backends with FastAPI and Python, and web frontends with Next.js. I care about clean architecture, great UX, and shipping things that actually work.
+Native iOS engineer focused on building polished, performant apps from architecture through App Store submission. I care about the details — smooth animations, accessible interfaces, clean concurrency, and code that's easy to reason about.
 
-- Crafting iOS experiences end-to-end, from design to App Store
-- Building fast, type-safe APIs and full-stack web apps
-- Obsessed with performance, accessibility, and the details that matter
-- Always exploring what's new across the Apple and web ecosystems
+Beyond iOS, I work across the stack: Python backends with FastAPI and web frontends with Next.js.
 
 ---
 
-### Tech Stack
+### iOS & Apple
 
-**Mobile**
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-0099FF?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-147EFB?style=flat-square&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftData-F05138?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core%20Data-1C1C1E?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Combine-0099CC?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift%20Concurrency-F05138?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/XCTest-5CB85C?style=flat-square&logo=apple&logoColor=white" />
 </p>
 
-**Backend**
+### Backend & Web
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-</p>
-
-**Frontend & Web**
-<p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
-
-**Tools**
-<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftData-FA7343?style=flat-square&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Core%20Data-1C1C1E?style=flat-square&logo=apple&logoColor=white" />
 </p>
 
 ---
 
-### GitHub Stats
+### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seifscape&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifscape&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seifscape&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=147EFB&icon_color=F05138" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifscape&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=147EFB" height="155" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=seifscape&theme=github-dark-blue&hide_border=true&ring=147EFB&fire=F05138&currStreakLabel=147EFB" height="155" />
 </p>
 
 ---
 
 <p align="center">
-  <em>Building something? Let's talk.</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F05138,100:147EFB&height=80&section=footer" />
 </p>

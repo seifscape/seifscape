@@ -47,19 +47,6 @@ Beyond iOS, I work across the stack: Python backends with FastAPI and web fronte
 
 ---
 
-### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-e61h-8yiqq8bru-seifscapes-projects.vercel.app/api?username=seifscape&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=147EFB&icon_color=F05138" height="155" />
-  <img src="https://github-readme-stats-e61h-8yiqq8bru-seifscapes-projects.vercel.app/api/top-langs/?username=seifscape&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=147EFB" height="155" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=seifscape&theme=github-dark-blue&hide_border=true&ring=147EFB&fire=F05138&currStreakLabel=147EFB" height="155" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F05138,100:147EFB&height=80&section=footer" />
 </p>

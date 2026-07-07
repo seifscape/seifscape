@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>iOS Engineer</strong> &nbsp;·&nbsp; Swift · SwiftUI · UIKit
+  <strong>Lead iOS Engineer</strong> &nbsp;·&nbsp; Swift · SwiftUI · UIKit
 </p>
 
 <p align="center">

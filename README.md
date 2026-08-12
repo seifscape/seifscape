@@ -18,6 +18,8 @@ Native iOS engineer focused on building polished, performant apps from architect
 
 Beyond iOS, I work across the stack: Python backends with FastAPI and web frontends with Next.js.
 
+[seifkobrosly.com](https://seifkobrosly.com)
+
 ---
 
 ### iOS & Apple
